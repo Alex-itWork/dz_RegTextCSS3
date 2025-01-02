@@ -4,4 +4,4 @@
 
 У текста внутри тега strong в абзаце с классом lead задайте нижнее подчеркивание
 
-Решение - 
+Решение -  https://alex-itwork.github.io/dz_RegTextCSS3/
